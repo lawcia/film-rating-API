@@ -98,7 +98,7 @@ urllib3==1.24.1
 virtualenv==16.7.5
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wikipedia==1.4.0
 Wikipedia-API==0.5.1
