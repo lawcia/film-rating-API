@@ -7,7 +7,7 @@ CORS(app)
 
 @app.route("/")
 def home():
-    return '''<h3>welcome to film rating api</h3>
+    return '''<h3>Welcome to film rating api</h3>
     <p>GET /api/v1/filmrating/movies/all </p>
     <p>returns ids and ratings of all movies</p>
     </br>
