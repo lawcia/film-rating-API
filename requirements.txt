@@ -95,3 +95,4 @@ Wikipedia-API==0.5.1
 wrapt==1.11.1
 WTForms==2.2.1
 yapf==0.26.0
+uwsgi
